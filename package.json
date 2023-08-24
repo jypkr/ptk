@@ -1,7 +1,7 @@
 {
   "name": "ptk",
   "private": true,
-  "homepage": "https://jypkr.github.io/ptk",
+  "homepage": "https://jypkr.github.io/ptk/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
