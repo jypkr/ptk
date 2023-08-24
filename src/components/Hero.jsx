@@ -1,5 +1,5 @@
 import styles from "../style";
-import { discount, robot, pickletimeLogopng, clipart2449509 } from "../assets";
+import { discount, pickletimeLogopng, clipart2449509 } from "../assets";
 import GetStarted from "./GetStarted";
 
 const Hero = () => {
